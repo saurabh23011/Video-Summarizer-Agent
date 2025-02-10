@@ -1,5 +1,7 @@
 🚀 Introducing Video Summarizer Agent! 🎬📽️
 before try  application please add the google api key 
+
+
 conda create -n agentdemo python=3.11 -y
 
 conda activate agentdemo
