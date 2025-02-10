@@ -6,4 +6,4 @@ conda activate agentdemo
 
 pip install -r requirements.txt
 
-https://video-summarizer-agent-hk3pxsfytfbhytvtmy99fu.streamlit.app/
+demo link= https://video-summarizer-agent-hk3pxsfytfbhytvtmy99fu.streamlit.app/
