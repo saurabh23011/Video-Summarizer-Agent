@@ -1,4 +1,8 @@
-🚀 Introducing Video Summarizer Agent! 🎬📽️
+🚀 Introducing Video Summarizer Agent! 🎬
+
+
+
+📽️
 before try  application please add the google api key 
 
 
