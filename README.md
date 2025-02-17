@@ -12,8 +12,8 @@ conda activate agentdemo
 
 pip install -r requirements.txt
 aap.py file for chat with multiple pdf agent 
-and main.py is chat with single pdf agent 
-ask anything for research regarding books 
+and main.py is video summarizer ask any thing regarding of the video 
+
 demo link= https://video-summarizer-agent-hk3pxsfytfbhytvtmy99fu.streamlit.app/
 
 
